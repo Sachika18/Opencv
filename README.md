@@ -49,3 +49,9 @@ The communication between the Kotlin/Java code and the native C++ code is establ
 ### TypeScript Web Viewer
 
 The `WebServer.kt` class hosts a simple web page on port 8080 of the device. The `viewer.js` file on this page contains TypeScript code that repeatedly fetches the `/frame` endpoint to get the latest processed frame and displays it. This demonstrates a simple way to bridge native processing results to a web layer.
+
+### Result
+
+![App Screenshot](/img1.jpg)
+![App Screenshot](/img2.jpg)
+
