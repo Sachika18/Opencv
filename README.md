@@ -18,9 +18,6 @@ This is an Android application that captures a live camera feed, processes it in
 *   **Real-time Display:** Fetches and displays the processed frames from the Android web server.
 *   **Frame Stats:** Includes placeholders for displaying FPS and resolution.
 
-## Screenshots
-
-*Add your screenshots or GIFs here showing the app in action.*
 
 ## Setup Instructions
 
